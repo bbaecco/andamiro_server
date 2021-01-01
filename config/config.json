@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "manager",
+    "password": "1234",
+    "database": "andamiro_was",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "test",
+    "password": "1234",
+    "database": "andamiro_was",
+    "host": "175.123.138.125",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
